@@ -1,4 +1,5 @@
 #! /usr/bin/env node
+
 import inquirer from "inquirer";
 //a package for getting prompt from user
 console.log("\n\tWellcome Friends \ CLI Simple Calculator\n");
